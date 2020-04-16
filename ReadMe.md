@@ -35,6 +35,4 @@ create by Hyunjune KIM.
 
 ## Event
 ![Showcase](Figures/crc_showcase.jpg)
-<video width="480" height="320" controls="controls">
-  <source src="Figures/fashionsearch.mp4" type="video/mp4">
-</video>
+[![FashionSearch](Figures/embed_vedio.png)](https://www.youtube.com/watch?v=-YGAbbVvgZw)
