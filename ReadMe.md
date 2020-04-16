@@ -1,4 +1,4 @@
-# To efficiently pricing Deep Learning Inference System on Serverless
+# Fundamental Serverless Deep Learning Platform
 ##  Motivation
 In this project, Server based Pattern Image Analysis using Deep learning System migrate to fully managed service of serverless platform.<br>
 
