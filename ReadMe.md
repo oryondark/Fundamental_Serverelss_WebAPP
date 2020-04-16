@@ -3,7 +3,7 @@
 In this project, Server based Pattern Image Analysis using Deep learning System migrate to fully managed service of serverless platform.<br>
 
 ## Architecture
-![Fundamental Serverelss Architecture](/Figures/Fundamental_Serverless_Arch.pdf)
+![Fundamental Serverelss Architecture](/Figures/Fundamental_serverless_Arch.png)
 
 ## Pre-required
 It platform must use runtime of *python3.6+*.
@@ -25,7 +25,7 @@ AWS S3 to build your web app<br>
 Ajax ( Asynchronous JavaScript and XML )
 
 ## Contributor
-Hyunjune Kim. - email is '4u_olion@naver.com'
+Hyunjune Kim. - email is '4u_olion@naver.com'<br>
 Kyungyong Lee. - my professor is him, an assistant professor in Kookmin University.
 
 
@@ -35,4 +35,6 @@ create by Hyunjune KIM.
 
 ## Event
 ![Showcase](Figures/crc_showcase.jpg)
-[![FashionSearch](Figures/crc_logo.png)](https://www.youtube.com/watch?v=-YGAbbVvgZw)
+<video width="480" height="320" controls="controls">
+  <source src="/fashionsearch.mp4" type="video/mp4">
+</video>
