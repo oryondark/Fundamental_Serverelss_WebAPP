@@ -3,7 +3,7 @@
 In this project, Server based Pattern Image Analysis using Deep learning System migrate to fully managed service of serverless platform.<br>
 
 ## Architecture
-![Fundamental Serverelss Architecture](/Figures/Fundamental_serverless_Arch.png)
+![Fundamental Serverelss Architecture](Figures/Fundamental_serverless_Arch.png)
 
 ## Pre-required
 It platform must use runtime of *python3.6+*.
@@ -36,5 +36,5 @@ create by Hyunjune KIM.
 ## Event
 ![Showcase](Figures/crc_showcase.jpg)
 <video width="480" height="320" controls="controls">
-  <source src="/fashionsearch.mp4" type="video/mp4">
+  <source src="Figures/fashionsearch.mp4" type="video/mp4">
 </video>
