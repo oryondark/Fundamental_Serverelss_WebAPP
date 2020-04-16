@@ -11,7 +11,7 @@ Note that you should be understood the limit of FaaS like AWS Lambda, Google Fun
 Since the resources limit of AWS Lambda, we should be choose the low-version deep learning framework and candidate *Pytorch-1.0*.<br>
 And then, we had been implemented of KNN mining system using *Scikit-Learn* that involved scipy.<br>
 <br>
-As well, You have to build RESTful Endpoint using *AWS API Gateway*, that need for CORS(cross origin resource sharing) because our system prefer to use web application leveraged *Ajax*.<br>
+As well, You have to build RESTful Endpoint using *AWS API Gateway*, that need for CORS(cross origin resource sharing) policy because our system prefer to use web application leveraged *Ajax*.<br>
 If you want to see the our web application, please check in followed link. <br>
 [Our WebApp Link](https://s3.ap-northeast-2.amazonaws.com/crc.kmubigdata.cloud/index.html)
 
