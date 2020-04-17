@@ -24,6 +24,9 @@ AWS API gateway base <br>
 AWS S3 to build your web app<br>
 Ajax ( Asynchronous JavaScript and XML )
 
+## To DevOps
+[you can see the wiki here! <click>](https://github.com/oryondark/Fundamental_Serverelss_WebAPP/wiki)
+
 ## Contributor
 Hyunjune Kim. - email is '4u_olion@naver.com'<br>
 Kyungyong Lee. - my professor is him, an assistant professor in Kookmin University.
