@@ -29,8 +29,8 @@ Ajax ( Asynchronous JavaScript and XML )
 
 ## Contributor
 Hyunjune Kim. - email is '4u_olion@naver.com'<br>
-Kyungyong Lee. - my professor is him, an assistant professor in Kookmin University.
-
+Kyungyong Lee. - my professor is him, an assistant professor in Kookmin University.<br>
+Heetae Kim. - Deep Learning Algorithm Scientist.
 
 ## Stopwatch
 the StopWatch will make immediacy and readability for your code. <br>
