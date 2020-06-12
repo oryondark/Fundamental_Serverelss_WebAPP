@@ -13,7 +13,7 @@ And then, we had been implemented of KNN mining system using *Scikit-Learn* that
 <br>
 As well, You have to build RESTful Endpoint using *AWS API Gateway*, that need for CORS(cross origin resource sharing) policy because our system prefer to use web application leveraged *Ajax*.<br>
 If you want to see the our web application, please check in followed link. <br>
-[Our WebApp Link](https://s3.ap-northeast-2.amazonaws.com/crc.backup/index.html)
+[Our WebApp Link using Route53](http://crc.kmubigdata.cloud/)
 
 
 
